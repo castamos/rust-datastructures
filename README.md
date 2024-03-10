@@ -1,5 +1,5 @@
 # rust-datastructures
-Implementations of different datastructures in Rust, for learning.
+Implementation of different datastructures in Rust, for learning.
 
 # Usage
 
